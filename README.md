@@ -1,2 +1,2 @@
 # Sqlserver、Oracle和Mysql数据学习笔记
-Sqlserver、Oracle和Mysql学习笔记
+Sqlserver、Oracle和Mysql学习笔记,记录一些数据库基础语法和高级语法，慢慢完善
